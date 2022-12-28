@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="seven-consumer (1)" />
+        <module name="third-consumer" />
+        <module name="five-consumer" />
+        <module name="six-consumer" />
+        <module name="second-consumer" />
+        <module name="four-consumer" />
+        <module name="seven-consumer" />
+        <module name="nine-consumer" />
+        <module name="springboot-with-kafka" />
+        <module name="consumer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="consumer" target="11" />
+      <module name="five-consumer" target="11" />
+      <module name="four-consumer" target="11" />
+      <module name="nine-consumer" target="11" />
+      <module name="second-consumer" target="11" />
+      <module name="seven-consumer" target="11" />
+      <module name="seven-consumer (1)" target="11" />
+      <module name="six-consumer" target="11" />
+      <module name="springboot-with-kafka" target="11" />
+      <module name="third-consumer" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="consumer" options="-parameters" />
+      <module name="five-consumer" options="-parameters" />
+      <module name="four-consumer" options="-parameters" />
+      <module name="nine-consumer" options="-parameters" />
+      <module name="second-consumer" options="-parameters" />
+      <module name="seven-consumer" options="-parameters" />
+      <module name="seven-consumer (1)" options="-parameters" />
+      <module name="six-consumer" options="-parameters" />
+      <module name="springboot-with-kafka" options="-parameters" />
+      <module name="third-consumer" options="-parameters" />
+    </option>
+  </component>
+</project>
