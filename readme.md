@@ -15,8 +15,7 @@ Neste projeto, usei uma abordagem diferente como consulta para novos projetos, a
 <br/>
 
 <br/>
-
-<p></p><img src="imgs/kafka.JPG">
+<p></p><img src="imgs/kafka.jpg">
 <p></p><img src="imgs/kafka2.JPG">
 <p></p><img src="imgs/kafka3.JPG">
 <p></p><img src="imgs/kafka4.JPG">
